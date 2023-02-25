@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ### ⭐Summary of this year
 
 <a href="https://github.com/Star-River-and-moonlight">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Star-River-and-moonlight&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star-River-and-moonlight&theme=buefy&layout=compact" />
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Star-River-and-moonlight&theme=buefy&show_icons=true" />
+  <img width="435em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star-River-and-moonlight&theme=buefy&layout=compact" />
 </a>
