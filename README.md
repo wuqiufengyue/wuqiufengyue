@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Star-River-and-moonlight">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Star-River-and-moonlight&theme=buefy&show_icons=true&locale=cn" />
-  <img width="435em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star-River-and-moonlight&theme=buefy&layout=compact&locale=cn" />
+  <img width="435em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&theme=buefy&layout=compact&locale=cn" />
 </a>
