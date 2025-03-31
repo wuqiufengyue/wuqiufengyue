@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### ⭐Summary of this year
 
-<a href="https://github.com/Star-River-and-moonlight">
+<a href="https://github.com/wuqiufengyue">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=QuietTwilight&theme=buefy&show_icons=true&locale=cn" />
   <img width="435em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuietTwilight&theme=buefy&layout=compact&locale=cn" />
 </a>
