@@ -6,7 +6,7 @@
 - ✨Today is another day full of hope
 
 <!--
-**Star-River-and-moonlight/Star-River-and-moonlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wuqiufengyue/wuqiufengyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ### ⭐Summary of this year
 
 <a href="https://github.com/wuqiufengyue">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=QuietTwilight&theme=buefy&show_icons=true&locale=cn" />
-  <img width="435em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuietTwilight&theme=buefy&layout=compact&locale=cn" />
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=wuqiufengyue&theme=buefy&show_icons=true&locale=cn" />
+  <img width="435em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuqiufengyue&theme=buefy&layout=compact&locale=cn" />
 </a>
